@@ -1,6 +1,9 @@
 python-dotenv
 langchain
+langchain-community
+langchain-openai
 openai
 youtube-transcript-api
 faiss-cpu
 streamlit
+tiktoken
